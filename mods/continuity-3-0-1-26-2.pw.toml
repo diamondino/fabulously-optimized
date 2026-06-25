@@ -1,0 +1,12 @@
+name = "continuity-3.0.1+26.2.jar"
+filename = "continuity-3.0.1+26.2.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "8fa8bc108e84158b0828a4aa59bf906d31676eec"
+mode = "metadata:curseforge"
+
+[update.curseforge]
+project-id = 531351
+file-id = 8261100

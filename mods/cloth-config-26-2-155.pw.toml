@@ -1,0 +1,12 @@
+name = "cloth-config-26.2.155.jar"
+filename = "cloth-config-26.2.155.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "babcf16dbd15e09d326e21ffe85ab3f7d843ef9e"
+mode = "metadata:curseforge"
+
+[update.curseforge]
+project-id = 348521
+file-id = 8269699

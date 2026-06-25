@@ -1,0 +1,12 @@
+name = "dynamic-fps-3.11.9+minecraft-26.2.0-fabric.jar"
+filename = "dynamic-fps-3.11.9+minecraft-26.2.0-fabric.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "e8cd9e4fbc6d42091faffc873b0801f1189ed6a5"
+mode = "metadata:curseforge"
+
+[update.curseforge]
+project-id = 335493
+file-id = 8260227

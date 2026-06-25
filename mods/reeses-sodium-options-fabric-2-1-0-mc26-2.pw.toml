@@ -1,0 +1,12 @@
+name = "reeses-sodium-options-fabric-2.1.0+mc26.2.jar"
+filename = "reeses-sodium-options-fabric-2.1.0+mc26.2.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "6853546648bc35b19678acc2ad1723f73432bb6e"
+mode = "metadata:curseforge"
+
+[update.curseforge]
+project-id = 511319
+file-id = 8292055

@@ -1,0 +1,12 @@
+name = "e4mc-fabric-6.2.0-modern.jar"
+filename = "e4mc-fabric-6.2.0-modern.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "6a949b1f5697d216b78dfd141111ad115ea1fe24"
+mode = "metadata:curseforge"
+
+[update.curseforge]
+project-id = 849519
+file-id = 8281126

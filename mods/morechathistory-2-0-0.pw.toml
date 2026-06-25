@@ -1,0 +1,12 @@
+name = "morechathistory-2.0.0.jar"
+filename = "morechathistory-2.0.0.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "6ce97845f93090dd7556b6e64bb7d63e126b83b4"
+mode = "metadata:curseforge"
+
+[update.curseforge]
+project-id = 518319
+file-id = 7807306

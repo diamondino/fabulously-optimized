@@ -1,0 +1,12 @@
+name = "main-menu-credits-1.4.0+26.2-universal.jar"
+filename = "main-menu-credits-1.4.0+26.2-universal.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "d73b75eefb787769a965166793e0c9ed58e6de85"
+mode = "metadata:curseforge"
+
+[update.curseforge]
+project-id = 618812
+file-id = 8268180

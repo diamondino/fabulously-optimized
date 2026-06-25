@@ -1,0 +1,12 @@
+name = "sodium-shadowy-path-blocks-fabric-7.0.0.jar"
+filename = "sodium-shadowy-path-blocks-fabric-7.0.0.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "1399156a64c7bfbc38fa21af935495cfb74923c3"
+mode = "metadata:curseforge"
+
+[update.curseforge]
+project-id = 556408
+file-id = 7854083

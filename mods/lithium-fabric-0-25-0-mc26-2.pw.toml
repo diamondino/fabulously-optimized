@@ -1,0 +1,12 @@
+name = "lithium-fabric-0.25.0+mc26.2.jar"
+filename = "lithium-fabric-0.25.0+mc26.2.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "ee6613921c224097f968a289e8a7b53e036cc6ec"
+mode = "metadata:curseforge"
+
+[update.curseforge]
+project-id = 360438
+file-id = 8261228
